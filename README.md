@@ -1,4 +1,4 @@
-# My App
+# View Main With Framework7
 
 ## Framework7 CLI Options
 
