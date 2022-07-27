@@ -1,10 +1,9 @@
 # View Main With Framework7
-![alt text](https://github.com/Wishnupmi/wishnuprogramming.github.io/blob/main/murojaah.jpg)
+![alt text](https://github.com/Wishnupmi/ViewMain_Framework7/blob/main/view_main.png)
 
 
 #Channel Youtube Wishnu Programming : 
-https://youtu.be/bdZOuYnF60I
-
+https://youtube.com/shorts/fTdMO-4DqVk?feature=share
 
 
 
