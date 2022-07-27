@@ -1,4 +1,12 @@
 # View Main With Framework7
+![alt text](https://github.com/Wishnupmi/wishnuprogramming.github.io/blob/main/murojaah.jpg)
+
+
+#Channel Youtube Wishnu Programming : 
+https://youtu.be/bdZOuYnF60I
+
+
+
 
 ## Framework7 CLI Options
 
